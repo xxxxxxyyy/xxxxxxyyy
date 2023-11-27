@@ -24,7 +24,7 @@ Mainly as a repository
 
 Gitee's strange rules force me to be active on Github
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=little-data&show_icons=true)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=xxxxxxyyy&show_icons=true)
 
 **b站统计**
 
