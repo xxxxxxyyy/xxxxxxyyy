@@ -8,9 +8,9 @@
 </picture> 
 
 # 简述 introduction
-本人并不会有很大的编程能力，只是简单修改
+本人正在学习编程
 
-I don't have great programming skills, just simple modification
+I am currently learning programming
 
 主要是当个储存库
 
@@ -31,7 +31,6 @@ Gitee's strange rules force me to be active on Github
 **b站统计**
 
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=1795667124)
-![github统计](https://stats.justsong.cn/api/github?username=xxxxxxyyy&theme=dark&lang=zh-CN) 
 
 **本页访问次数/Visitor Count**
 
