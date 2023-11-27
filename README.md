@@ -28,9 +28,6 @@ Gitee's strange rules force me to be active on Github
 
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=xxxxxxyyy&layout=compact&theme=tokyonight)
 
-
-**b站统计**
-
 ![B站统计](https://stats.justsong.cn/api/bilibili/?id=1795667124)
 
 **本页访问次数/Visitor Count**
